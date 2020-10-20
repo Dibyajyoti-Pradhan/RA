@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  height: 100vh;
+}
+
+canvas {
+  display: block;
+}
+
+button {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -20%);
+  font-family: "Montserrat";
+  color: #326285;
+  font-size: 2em;
+  text-transform: uppercase;
+  width: auto;
+  border: 3px solid #0098fd;
+  cursor: pointer;
+}
