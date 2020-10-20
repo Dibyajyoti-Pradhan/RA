@@ -13,10 +13,11 @@ button {
   left: 50%;
   transform: translate(-50%, -20%);
   font-family: "Montserrat";
-  color: #326285;
-  font-size: 2em;
+  color: #ffffff;
+  background-color: transparent;
+  font-size: 3em;
   text-transform: uppercase;
   width: auto;
-  border: 3px solid #0098fd;
+  border: 3px solid #00f7ff;
   cursor: pointer;
 }
